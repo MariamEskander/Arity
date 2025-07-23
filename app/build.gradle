@@ -37,4 +37,5 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-viewmodel:2.5.1' //needed due to duplicate class error
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1' //needed due to duplicate class error
     implementation 'androidx.webkit:webkit:1.7.0'
+    implementation 'com.instabug.library:instabug:15.0.2'
 }
